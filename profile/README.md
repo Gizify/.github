@@ -3,7 +3,7 @@
 ## 🌱 Welcome to Gizify Repository!
 
 ## 🚀 Introduction
-**Gizify** is an AI-powered mobile application designed for **nutrition monitoring** and **healthy recipe recommendations**. Our goal is to help users maintain a balanced diet effortlessly using smart technology.
+**Gizify** is an AI-based mobile application for **nutrition monitoring in pregnant women** and **healthy recipe recommendations** aimed at **preventing stunting**. Our goal is to help users maintain a balanced diet effortlessly through smart technology.
 
 ## 👨‍💻Our Team
 Meet the talented individuals behind Gizify:
